@@ -1,0 +1,19 @@
+{
+    "C++": ["Native", "Embedding", "Backend", "ISO", "Object-Orientation", "ML", "Android"],
+    "Python": ["Embedding", "Web", "Backend", "ML", "Script", "Object-Orientation", "Strongly-Typed"],
+    "Java": ["JVM", "Web", "Backend", "Object-Orientation", "Oracle", "Android"],
+    "Kotlin": ["JVM", "Web", "Backend", "Frontend", "Object-Orientation", "Google", "Strongly-Typed", "Android"],
+    "Swift": ["Native", "Frontend", "IOS", "Apple"],
+    "Javascript": ["Web", "Backend", "Script", "Frontend", "Object-Orientation", "Netscape"],
+    "Typescript": ["Web", "Backend", "Script", "Frontend", "Object-Orientation", "Microsoft", "Strongly-Typed"],
+    "Go": ["Native", "Web", "Backend", "Script", "Object-Orientation", "Google"],
+    "Rust": ["Native", "Backend", "Mozilla", "Object-Orientation", "Strongly-Typed"],
+    "Linux": ["OS", "UTF-8"],
+    "Windows": ["OS", "Microsoft", "UTF-16"],
+    "Android": ["OS", "Google", "UTF-8"],
+    "Mac": ["OS", "Apple"],
+    "UTF-8": ["Character-Code", "Linux", "Mac", "Android", "Unicode"],
+    "UTF-16": ["Character-Code", "Windows", "Java", "Javascript", "Unicode"],
+    "UTF-32": ["Character-Code", "Unicode"],
+    "Shift-jis": ["Character-Code", "Windows", "Japanese"]
+}
